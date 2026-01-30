@@ -49,4 +49,4 @@ I am a passionate Developer from **Jakarta, Indonesia**, focused on building rob
 * **Email:** christopherjordantp@gmail.com
 * **Location:** Jakarta, Indonesia 🇮🇩
 
-*"Always learning, always coding."*
+*"Always learning."*
