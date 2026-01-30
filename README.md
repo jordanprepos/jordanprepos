@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Christopher Jordan Payangan
 
-I am a passionate Developer from **Jakarta, Indonesia**, focused on building robust web applications and automated testing suites. I enjoy bridging the gap between frontend aesthetics and backend logic.
+I am a passionate QA's from **Jakarta, Indonesia**, focused on building robust web applications and automated testing suites. I enjoy bridging the gap between frontend aesthetics and backend logic.
 
 ---
 
