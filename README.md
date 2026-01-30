@@ -38,8 +38,9 @@ I am a passionate Developer from **Jakarta, Indonesia**, focused on building rob
 ---
 
 ### 📊 GitHub Stats
-![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordanprepos&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordanprepos&layout=compact&theme=tokyonight)
+
+//![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordanprepos&show_icons=true&theme=tokyonight)
+//a![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordanprepos&layout=compact&theme=tokyonight)
 
 ---
 
