@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Christopher Jordan Payangan
 
-I am a passionate QA's from **Jakarta, Indonesia**, focused on building robust web applications and automated testing suites. I enjoy bridging the gap between frontend aesthetics and backend logic.
+I am a passionate QA from **Jakarta, Indonesia**, focused on building robust web applications and automated testing suites. I enjoy bridging the gap between frontend aesthetics and backend logic.
 
 ---
 
@@ -15,6 +15,7 @@ I am a passionate QA's from **Jakarta, Indonesia**, focused on building robust w
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 **Testing & Tools**
+![Cypress](https://img.shields.io/badge/-Cypress-%2369C3ADE?style=for-the-badge&logo=cypress&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -24,6 +25,7 @@ I am a passionate QA's from **Jakarta, Indonesia**, focused on building robust w
 ### 📂 Featured Repositories
 
 #### 🧪 Quality Assurance & Monitoring
+* **[learn-cypress](https://github.com/jordanprepos/learn-cypress)** - A sandbox environment for mastering Cypress E2E automation frameworks.
 * **[playwright-project](https://github.com/jordanprepos/playwright-project)** - Automated end-to-end testing suite.
 * **[learn-grafanak6](https://github.com/jordanprepos/learn-grafanak6)** - Performance monitoring and visualization experiments.
 
@@ -38,11 +40,10 @@ I am a passionate QA's from **Jakarta, Indonesia**, focused on building robust w
 ---
 
 ### 📊 GitHub Stats
-/**
-*
+
 ![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordanprepos&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordanprepos&layout=compact&theme=tokyonight)
-*/
+
 ---
 
 ### 📫 Connect with me
