@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Christopher Jordan Payangan
 
-I am a passionate QA from **Jakarta, Indonesia**, focused on building robust web applications and automated testing suites. I enjoy bridging the gap between frontend aesthetics and backend logic.
+I am a passionate QA from **Jakarta, Indonesia**, focused on building robust web applications, full-stack mobile systems, and automated testing suites. I enjoy bridging the gap between frontend aesthetics, backend logic, and reliable test automation.
 
 ---
 
@@ -8,13 +8,19 @@ I am a passionate QA from **Jakarta, Indonesia**, focused on building robust web
 
 **Languages & Frameworks**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Expo](https://img.shields.io/badge/expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Testing & Tools**
+**Databases, Testing & Tools**
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-Cypress-%2369C3ADE?style=for-the-badge&logo=cypress&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
@@ -23,6 +29,12 @@ I am a passionate QA from **Jakarta, Indonesia**, focused on building robust web
 ---
 
 ### 📂 Featured Repositories
+
+#### 💼 Professional Hubs & Portfolios
+* **[work-profile-hub](https://github.com/jordanprepos/work-profile-hub)** - An interactive, recruiter-friendly CV portfolio landing page built with React 19, FastAPI, and MongoDB, featuring a multi-theme terminal aesthetic and functional client lead collection pipeline.
+
+#### 📱 Full-Stack Mobile Development
+* **[journal-cafe](https://github.com/jordanprepos/journal-cafe)** - My idead to log every cafe i came for. A warm, earthy mobile logging platform utilizing Expo (React Native), FastAPI, and MongoDB with JWT authentication, real-time metrics, and async storage infrastructure.
 
 #### 🧪 Quality Assurance & Monitoring
 * **[learn-cypress](https://github.com/jordanprepos/learn-cypress)** - A sandbox environment for mastering Cypress E2E automation frameworks.
@@ -33,9 +45,7 @@ I am a passionate QA from **Jakarta, Indonesia**, focused on building robust web
 * **[angular-employee-mgnt-test](https://github.com/jordanprepos/angular-employee-mgnt-test)** - Enterprise-style management dashboard built with Angular.
 * **[earthquakeMap](https://github.com/jordanprepos/earthquakeMap)** - Real-time seismic data visualization using Laravel and GeoJSON.
 * **[LEARN-SPRING-BOOT](https://github.com/jordanprepos/LEARN-SPRING-BOOT)** - Backend API development and microservices architecture.
-
-#### 📱 Mobile
-* **[angular-ionic](https://github.com/jordanprepos/angular-ionic)** - Cross-platform mobile application development.
+* **[angular-ionic](https://github.com/jordanprepos/angular-ionic)** - Cross-platform mobile application legacy development configurations.
 
 ---
 
