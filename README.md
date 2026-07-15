@@ -39,10 +39,11 @@ I am a passionate QA from **Jakarta, Indonesia**, focused on building robust web
 #### 📱 Full-Stack Mobile Development
 * **[journal-cafe](https://github.com/jordanprepos/journal-cafe)** - My idead to log every cafe i came for. A warm, earthy mobile logging platform utilizing Expo (React Native), FastAPI, and MongoDB with JWT authentication, real-time metrics, and async storage infrastructure.
 
-#### 🧪 Quality Assurance & Monitoring
+#### 🧪 Quality Assurance & Monitoring 
 * **[learn-cypress](https://github.com/jordanprepos/learn-cypress)** - A sandbox environment for mastering Cypress E2E automation frameworks.
 * **[playwright-project](https://github.com/jordanprepos/playwright-project)** - Automated end-to-end testing suite.
 * **[learn-grafanak6](https://github.com/jordanprepos/learn-grafanak6)** - Performance monitoring and visualization experiments.
+* **[jmeter](https://github.com/jordanprepos/jmeter)** - Utilize Jmeter not just Performance testing but also API testing.
 
 #### 🌐 Web Development (Frontend & Backend)
 * **[angular-employee-mgnt-test](https://github.com/jordanprepos/angular-employee-mgnt-test)** - Enterprise-style management dashboard built with Angular.
