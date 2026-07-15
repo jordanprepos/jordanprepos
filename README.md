@@ -20,7 +20,9 @@ I am a passionate QA from **Jakarta, Indonesia**, focused on building robust web
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Databases, Testing & Tools**
+![Apache JMeter](https://img.shields.io/badge/Apache%20JMeter-%23D22128.svg?style=for-the-badge&logo=Apache-JMeter&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![DBeaver](https://img.shields.io/badge/dbeaver-%23382923.svg?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-Cypress-%2369C3ADE?style=for-the-badge&logo=cypress&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
@@ -57,6 +59,7 @@ I am a passionate QA from **Jakarta, Indonesia**, focused on building robust web
 ---
 
 ### 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordan-payangan/)
 * **Email:** christopherjordantp@gmail.com
 * **Location:** Jakarta, Indonesia 🇮🇩
 
