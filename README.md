@@ -34,7 +34,7 @@ I am a passionate QA from **Jakarta, Indonesia**, focused on building robust web
 ### 📂 Featured Repositories
 
 #### 💼 Professional Hubs & Portfolios
-* **[work-profile-hub](https://github.com/jordanprepos/work-profile-hub)** - An interactive, recruiter-friendly CV portfolio landing page built with React 19, FastAPI, and MongoDB, featuring a multi-theme terminal aesthetic and functional client lead collection pipeline.
+* **[jordanpayangan-portofolio](https://github.com/jordanprepos/work-profile-hub)** - An interactive, recruiter-friendly CV portfolio landing page built with React 19, FastAPI, and MongoDB, featuring a multi-theme terminal aesthetic and functional client lead collection pipeline.
 
 #### 📱 Full-Stack Mobile Development
 * **[journal-cafe](https://github.com/jordanprepos/journal-cafe)** - My idead to log every cafe i came for. A warm, earthy mobile logging platform utilizing Expo (React Native), FastAPI, and MongoDB with JWT authentication, real-time metrics, and async storage infrastructure.
