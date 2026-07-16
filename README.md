@@ -38,6 +38,7 @@ I am a passionate QA from **Jakarta, Indonesia**, focused on building robust web
 
 #### 📱 Full-Stack Mobile Development
 * **[journal-cafe](https://github.com/jordanprepos/journal-cafe)** - My idead to log every cafe i came for. A warm, earthy mobile logging platform utilizing Expo (React Native), FastAPI, and MongoDB with JWT authentication, real-time metrics, and async storage infrastructure.
+* **[cafe-diary](https://github.com/jordanprepos/journal-cafe-log-v2)** - Same idea as **[journal-cafe](https://github.com/jordanprepos/journal-cafe)** , but the difference is that this project using Kotlin for Andorid only. This is an exploratory project for me in mobile app development
 
 #### 🧪 Quality Assurance & Monitoring 
 * **[learn-cypress](https://github.com/jordanprepos/learn-cypress)** - A sandbox environment for mastering Cypress E2E automation frameworks.
